@@ -14,7 +14,7 @@ const Header = () => {
 							See Posts
 						</button>
 					</Link>
-					<Link href={"/create-post"}>
+					<Link href={"/add-project"}>
 						<button className='px-5 py-2 rounded bg-green-700 hover:bg-green-500 text-white '>
 							Create post
 						</button>
